@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chady Ayoub
+- 👀 I’m interested in programming web and mobile applications, developing games, and solving problems
+- 🌱 I’m currently learning mobile development using react native
+- 💞️ I’m looking to collaborate on projects that can help me advance my coding skills
+- 📫 How to reach me: email: chady.ayoub.1@outlook.com
